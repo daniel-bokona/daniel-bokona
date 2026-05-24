@@ -6,10 +6,10 @@ Welcome to my GitHub profile! I'm an elementary school student with a big passio
 - Name: Daniel Bokona
 - Current Status: Elementary School Student
 - Developer Level: Beginner
-- Favorite Language (so far!): Python 🐍
+- Favorite Language (so far!): Javascript 🐍
 
 ## 🌱 My Learning Journey
-I'm currently focusing on Python and exploring its possibilities. I love solving problems and bringing ideas to life with code. Every line of code I write is a step forward in my learning adventure!
+I'm currently focusing on frontend and exploring its possibilities. I love solving problems and bringing ideas to life with code. Every line of code I write is a step forward in my learning adventure!
 
 I also document my coding progress, discoveries, and challenges on my Telegram channel. It's a great way for me to track my journey and share what I'm learning with others.
 
