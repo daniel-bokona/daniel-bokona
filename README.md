@@ -16,22 +16,6 @@ I also document my coding progress, discoveries, and challenges on my Telegram c
 ## ✨ What I'm Working On
 You'll find my beginner projects and coding exercises here. I'm constantly experimenting and trying out new concepts. Stay tuned for more updates as I grow as a developer!
 
-## 📊 Coding Stats
-<div align="center">
-
-<table style="background-color: black;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dani-verse&show_icons=true&theme=radical&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani-verse&layout=compact&theme=radical&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
 ## Connect with Me
 
 Feel free to reach out if you’d like to collaborate, connect, or just say hi through direct message of my channel!  
